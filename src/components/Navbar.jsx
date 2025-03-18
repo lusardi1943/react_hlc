@@ -1,14 +1,14 @@
-import Link from 'next/link';
+import React from 'react';
 
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <Link href="/" className="navbar-brand">TechAABB</Link>
+        <a href="/" className="navbar-brand">TechAABB</a>
         <div className="collapse navbar-collapse">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link href="/" className="nav-link">Inicio</Link>
+              <a href="/" className="nav-link">Inicio</a>
             </li>
             <li className="nav-item">
               <a href="https://www.techcrunch.com" className="nav-link" target="_blank" rel="noopener noreferrer">Noticias</a>
