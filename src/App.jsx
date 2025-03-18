@@ -15,7 +15,7 @@ function App() {
     <div>
       <Navbar />
       <div className="container mt-5">
-        <h1>Bienvenido Morgado a TechAABB</h1>
+        <h1>Bienvenido Morgado Berruezo a TechAABB</h1>
         <p>Explora las últimas noticias y tendencias en tecnología.</p>
         <div className="row">
           {posts.map((post) => (
