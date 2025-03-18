@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-env-config
+data:
+  CONTEXTO: /home/andres/hlc/HLC-24-25/Caronte
+  AUTOR: lusardi1943
+  TZ: Europe/Madrid
+  PROYECTO: react-hlc
+  GITHUB: https://github.com/lusardi1943/react_hlc.git
+  USUARIO: andres 
+  PASSWD: andres
+  HOSTNAME: web-basica
+  PORT_SSH: "45678"
+  PORT_ORIGEN: "8082" 
