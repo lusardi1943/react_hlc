@@ -6,7 +6,7 @@ data:
   CONTEXTO: /home/andres/hlc/HLC-24-25/Caronte
   AUTOR: lusardi1943
   TZ: Europe/Madrid
-  PROYECTO: react-hlc
+  PROYECTO: react_hlc
   GITHUB: https://github.com/lusardi1943/react_hlc.git
   USUARIO: andres 
   PASSWD: andres
